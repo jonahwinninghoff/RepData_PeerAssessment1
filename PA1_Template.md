@@ -1,5 +1,7 @@
 title: "Peer-graded Assignment - First Course Project"
+
 author: "Jonah Winninghoff"
+
 date: "7/22/2019"
 
 This paper develops based on Peer-graded Assignment: Course Project 1 that will evaluate my ability to manipulate dataset and create a set of plots and histograms. Not only does it evaluates on my ability, it evaluates my ability to use *Markdown* so that it intends to cover:
